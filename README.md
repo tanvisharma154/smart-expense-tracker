@@ -1,8 +1,8 @@
-# 💸 Smart Expense Tracker
+# Smart Expense Tracker
 
 A full-stack web application to track, manage, and analyze personal expenses with interactive dashboards.
 
-## 🚀 Features
+##  Features
 
 - User Authentication (Login/Signup)
 - Add, Edit, Delete Expenses
@@ -11,7 +11,7 @@ A full-stack web application to track, manage, and analyze personal expenses wit
 - User-specific Data Storage
 - Clean and Responsive UI
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Backend: Flask (Python)
 - Database: SQLite (SQLAlchemy)
@@ -19,11 +19,7 @@ A full-stack web application to track, manage, and analyze personal expenses wit
 - Visualization: Matplotlib
 - Frontend: HTML, CSS
 
-## 📊 Screenshots
-
-(Add screenshots here)
-
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/your-username/smart-expense-tracker.git
